@@ -3,7 +3,7 @@ We will create a prototype app that helps clinicians to assess the degree of dee
 
 Points to tackle:
 
-We have worked this point in the following files:
+We have worked this point in the following files and will incorporate them in this document later on.:
 https://drive.google.com/drive/folders/1lBiena62lc3Bb47pauYFTSbWYFz8CrRj
 
 Overview of the project 
