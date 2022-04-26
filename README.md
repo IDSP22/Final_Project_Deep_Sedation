@@ -1,5 +1,5 @@
 # Final_Project_Deep_Sedation
-We will create a prototype app that helps clinicians to assess the degree of deep sedation on patients with respiratory failure.  
+We will create a prototype app that helps clinicians to assess the degree of deep sedation on patients with respiratory failure accross culture.  
 
 Points to tackle:
 
