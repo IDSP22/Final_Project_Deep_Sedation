@@ -43,7 +43,8 @@ Clinician and any other user we have access to will need to answer the following
 *How does the visualization look for you?
 *Explore (User’s needs)
 
-#### Participants will need to prioritize the following needs 
+#### Explore
+Participants will need to prioritize the following needs 
 
 1. 	Statistical precision of modeling.
 2. 	Simplicity in conveying a message to the clinitians. 
