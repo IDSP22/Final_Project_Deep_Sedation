@@ -2,7 +2,7 @@
 
 ## Overview of the project 
 
-<div style="text-align: justify">
+<div style="text-align: right">
 We are creating a prototype app to sensibilize clinitians on the disparity degree of deep sedation on patients with accute respiratory distress syndrome (ARDS) accross ethnicities. The relevance of this project is that deep sedation on the first five days administered is associated with higher mortality likelihood after 90 days. The first step was to understand the key concepts of the project: ARDS, deep sedation, and mortality likelihood. According to the National Heart, Lung, and Blood institute; ARDS "is a serious lung condition that causes low blood oxygen", this condition is mainly caused by other deseases or injuries. This condition can develop at any age and quickly deteriorate[1].
 <div/>
  
