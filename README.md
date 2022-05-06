@@ -7,9 +7,11 @@ We are creating a prototype app to sensibilize clinitians on the disparity degre
 In the manuscript[2] provided, “deep sedation is defined as the proportion of days during which the patient was deeply sedated, repeatedly measured once daily for the first five days that a patient was alive and receiving mechanical ventilation” (Armstrong-Hough, M. and et.al., 2022). And a day of deep sedation was defined as a day where the Richmond Agitation (Table 1) and Sedation Score [3] was equal to or less than -2, the Riker (Table 1) [3] Sedation Agitation Scale was equal to or greater than 1, or the Ramsay [4] Sedation Scale was equal to or greater than 4. The Richmond Agitation is defined as:
 
 Table 1
+
 ![Richmond](Richmond.png)
 
 Table 2
+
 ![Risker_Ramsay](Risk_Ramsay.png)
 
 
