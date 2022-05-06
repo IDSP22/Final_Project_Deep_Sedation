@@ -7,6 +7,8 @@ library(shiny)
 # Defining the user interface. What is display in the web page. Showing all the built-in 
 # data frames included in the data sets packages. 
 
+
+
 shinyUI(fluidPage(
   
   # Application title
@@ -14,16 +16,12 @@ shinyUI(fluidPage(
   mainPanel(
     
     tabsetPanel( 
-      tabPanel("Simulation"),
+      tabPanel("Simulation Descriptive Statistics"),
       
-      tabPanel("Deeply sedation over first 5 days"),
+      tabPanel("Death within 90 days"),
                  mainPanel(
                    verbatimTextOutput("show_model")
-                 ),
-      tabPanel("Mortality after 90 days"),
-      mainPanel(
-        verbatimTextOutput("show_model")
-      )
+                 )
                  
                )
       )
