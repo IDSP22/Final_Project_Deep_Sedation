@@ -37,13 +37,12 @@
 #### Discover (Designed interview)
 Clinician and any other user we have access to will need to answer the following interview questions:
  
-* What is the primary patient outcome of interest (mortality rate)?
-* Which are the variables that you look at when assessing patients' need for deep sedation?
-* How are the visualizations going to help the decision making?
+* What is the primary patient outcome of interest (deep sedation/ mortality rate)?
+* Is the main purpuse of this interactive app to sensibilize clinitians on the disparity of deep sedation?
+* How are the visualizations going to help the decision making process?
 * How does the visualization look for you?
-* Explore (User’s needs)
 
-#### Explore
+#### Explore (User’s needs)
 Participants will need to prioritize the following needs 
 
 1. 	Statistical precision of modeling.
@@ -52,7 +51,7 @@ Participants will need to prioritize the following needs
 4. 	Dynamicity
   
 #### Test
-This section and the results of the prototyping will be described in further detail in the prototyping and developing sections.  
+This section and the results will be described in the prototyping and developing sections.  
 
   
   
