@@ -22,7 +22,7 @@
 
 ## Description of the problem
     
-<div style="text-align: right">Mari Armstrong and her team made a study on the disparity of deep sedation across ethnicities and associated this degree of sedation with the 90-day mortality rate. And they made interesting findings but they are looking for a better way to communicate this result to the clinicians. This to sensibilize and make clinicians conscious of the disparity in sedation administered and mortality rates. Than could influence on taking better decisions.<div/>
+<div style="text-align: right">Mari Armstrong and her team made a study on the disparity of deep sedation across ethnicities and associated this degree of sedation with the 90-day mortality rate. And they made interesting findings but they are looking for a better way to communicate this result to the clinicians. This to sensibilize and make clinicians conscious of the disparity in sedation administered and mortality rates, to potentially influence their decisions taking on the degree of deep sedation.<div/>
   
 ## Description of the end user 
  
