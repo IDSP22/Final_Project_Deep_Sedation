@@ -32,16 +32,16 @@
 
 ### User research plan
 
-<div style="text-align: right">Our research method will consist of four stages: Discover, Explore, Test, and Listen. And these stages are described in the following sections.<div/>
+<div style="text-align: right">Our research method will consist of three stages: Discover, Explore, Test. And these stages are described in the following sections.<div/>
  
 #### Discover (Designed interview)
 Clinician and any other user we have access to will need to answer the following interview questions:
  
-*What is the primary patient outcome of interest (mortality rate)?
-*Which are the variables that you look at when assessing patients' need for deep sedation?
-*How are the visualizations going to help the decision making?
-*How does the visualization look for you?
-*Explore (User’s needs)
+* What is the primary patient outcome of interest (mortality rate)?
+* Which are the variables that you look at when assessing patients' need for deep sedation?
+* How are the visualizations going to help the decision making?
+* How does the visualization look for you?
+* Explore (User’s needs)
 
 #### Explore
 Participants will need to prioritize the following needs 
