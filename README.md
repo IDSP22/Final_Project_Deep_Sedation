@@ -2,11 +2,11 @@
 
 ## Overview of the project 
 
-<div style="text-align: right">We are creating a prototype app to sensibilize clinitians on the disparity degree of deep sedation on patients with accute respiratory distress syndrome (ARDS) accross ethnicities. The relevance of this project is that deep sedation on the first five days administered is associated with higher mortality likelihood after 90 days. The first step was to understand two key concepts of the project: ARDS and deep sedation. According to the National Heart, Lung, and Blood institute; ARDS "is a serious lung condition that causes low blood oxygen", this condition is mainly caused by other deseases or injuries. This condition can develop at any age and quickly deteriorate[1].<div/>
+<div style="text-align: justify">We are creating a prototype app to sensibilize clinitians on the disparity degree of deep sedation on patients with accute respiratory distress syndrome (ARDS) accross ethnicities. The relevance of this project is that deep sedation on the first five days administered is associated with higher mortality likelihood after 90 days. The first step was to understand two key concepts of the project: ARDS and deep sedation. According to the National Heart, Lung, and Blood institute; ARDS "is a serious lung condition that causes low blood oxygen", this condition is mainly caused by other deseases or injuries. This condition can develop at any age and quickly deteriorate[1].<div/>
   
 <br/>  
   
-<div style="text-align: right">In the manuscript[2] provided, “deep sedation is defined as the proportion of days during which the patient was deeply sedated, repeatedly measured once daily for the first five days that a patient was alive and receiving mechanical ventilation” (Armstrong-Hough, M. and et.al., 2022). And a day of deep sedation was defined as a day where the Richmond Agitation (Table 1) and Sedation Score [3] was equal to or less than -2, the Riker (Table 1) [3] Sedation Agitation Scale was equal to or greater than 1, or the Ramsay [4] Sedation Scale was equal to or greater than 4. The Richmond Agitation is defined as:<div/>
+<div style="text-align: justify">In the manuscript[2] provided, “deep sedation is defined as the proportion of days during which the patient was deeply sedated, repeatedly measured once daily for the first five days that a patient was alive and receiving mechanical ventilation” (Armstrong-Hough, M. and et.al., 2022). And a day of deep sedation was defined as a day where the Richmond Agitation (Table 1) and Sedation Score [3] was equal to or less than -2, the Riker (Table 1) [3] Sedation Agitation Scale was equal to or greater than 1, or the Ramsay [4] Sedation Scale was equal to or greater than 4. The Richmond Agitation is defined as:<div/>
   
 **Table 1**
 
@@ -18,7 +18,7 @@
 
 <br/>
 
-  <div style="text-align: right">Furthermore, in the manuscript [3], they described “patient characteristics, including age, sex, race/ethnicity, reported tobacco use, comorbidities, body mass index (BMI), SOFA score, receipt of benzodiazepines, and exposure to deep sedation. They carried out bivariate tests of association between patient characteristics and death within 90 days using chi-square tests.” And they “hypothesized that Hispanic patients enrolled in the control arm of the ROSE trial spent more time deeply sedated than non-Hispanic patients and that greater exposure to deep sedation was associated with increased 90-day mortality” [3].<div/>
+  <div style="text-align: justify">Furthermore, in the manuscript [3], they described “patient characteristics, including age, sex, race/ethnicity, reported tobacco use, comorbidities, body mass index (BMI), SOFA score, receipt of benzodiazepines, and exposure to deep sedation. They carried out bivariate tests of association between patient characteristics and death within 90 days using chi-square tests.” And they “hypothesized that Hispanic patients enrolled in the control arm of the ROSE trial spent more time deeply sedated than non-Hispanic patients and that greater exposure to deep sedation was associated with increased 90-day mortality” [3].<div/>
 
 ## Description of the problem
 ## Description of the end user 
