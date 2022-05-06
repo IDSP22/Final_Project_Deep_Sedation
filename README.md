@@ -22,13 +22,41 @@
 
 ## Description of the problem
     
-<div style="text-align: right">Mari Armstrong and her research team made a study on the disparity of deep sedation across ethnicities and associated this degree of sedation with the 90-day mortality rate. And they made interesting findings but they are looking for a better way to communicate this result to the clinicians. This to sensibilize and make clinicians conscious of the disparity in sedation administered and mortality rates, to potentially influence their decisions taking on the degree of deep sedation.<div/>
+<div style="text-align: right">Mari Armstrong and her research team made a study on the disparity of deep sedation across ethnicities and associated this degree of sedation with the 90-day mortality rate. And they made interesting findings but they are looking for a better way to communicate this result to the clinicians. This to sensibilize and make clinicians conscious of the disparity in sedation administered and mortality rates to potentially influence their decisions taking on the degree of deep sedation.<div/>
   
 ## Description of the end user 
  
 <div style="text-align: right">The end users will be critical care physicians that have understanding of statistical interpretation of linear regression. The question is if they also understand multilevel model interpretation and if they should require this to interpret the visualization.<div/>
  
 ## User Research and Testing Plan
+
+### User research plan
+
+<div style="text-align: right">Our research method will consist of four stages: Discover, Explore, Test, and Listen. And these stages are described in the following sections.<div/>
+ 
+#### Discover (Designed interview)
+Clinician and any other user we have access to will need to answer the following interview questions:
+ 
+*What is the primary patient outcome of interest (mortality rate)?
+*Which are the variables that you look at when assessing patients' need for deep sedation?
+*How are the visualizations going to help the decision making?
+*How does the visualization look for you?
+*Explore (User’s needs)
+
+#### Participants will need to prioritize the following needs 
+
+1. 	Statistical precision of modeling.
+2. 	Simplicity in conveying a message to the clinitians. 
+3. 	Design
+4. 	Dynamicity
+  
+#### Test
+This section and the results of the prototyping will be described in further detail in the prototyping and developing sections.  
+
+  
+  
+  
+  
 ## Findings/results from interviews 
 ## Prototyping round 1
 ## Developments after round 1
