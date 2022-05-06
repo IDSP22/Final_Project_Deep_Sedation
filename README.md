@@ -67,9 +67,12 @@ This section and the results will be described in the prototyping and developing
 ## Potential next steps
 ## References
 [1] “Acute Respiratory Distress Syndrome - What Is Acute Respiratory Distress Syndrome? | NHLBI, NIH.” National Heart, Lung, and Blood Institute, 24 Mar. 2022, www.nhlbi.nih.gov/health/ards.
+<br/>  
 [2] Armstroung-Hough, Mari. “Ethnic disparities in deep sedation of patients with ARDS in the United States: secondary analysis of a multicenter randomized trial”.  (I am not sure how to reference it without the DOI. we need to check)
-[3] “Richmond Agitation Sedation Scale (RASS) - Mnhospitals.org.” Richmond Agitation Sedation Scale (RASS), https://www.mnhospitals.org/Portals/0/Documents/ptsafety/LEAPT%20Delirium/RASS%20Sedation%20Assessment%20Tool.pdf.
-[4] “Riker Sedation Agitation Scale (SAS) - SCCM.” Sedation Agitation Scale, Wolters Kluwer Health, 1999, https://www.sccm.org/getattachment/2af9bf9a-ccd9-47fe-9e1a-435186db4cb8/Riker-Sedation-Agitation-Scale-(SAS).
+<br/>  
+ [3] “Richmond Agitation Sedation Scale (RASS) - Mnhospitals.org.” Richmond Agitation Sedation Scale (RASS), https://www.mnhospitals.org/Portals/0/Documents/ptsafety/LEAPT%20Delirium/RASS%20Sedation%20Assessment%20Tool.pdf.
+<br/>  
+ [4] “Riker Sedation Agitation Scale (SAS) - SCCM.” Sedation Agitation Scale, Wolters Kluwer Health, 1999, https://www.sccm.org/getattachment/2af9bf9a-ccd9-47fe-9e1a-435186db4cb8/Riker-Sedation-Agitation-Scale-(SAS).
 
  
 
