@@ -78,10 +78,7 @@ This section and the results will be described in the prototyping and developing
 <br/> 
 [6] Rubin, Jeffrey, and Dana Chisnell. Handbook of Usability Testing: How to Plan, Design, and Conduct Effective Tests, John Wiley & Sons, Incorporated, 2008. ProQuest Ebook Central, https://ebookcentral-proquest-com.proxy.library.nyu.edu/lib/nyulibrary-ebooks/detail.action?docID=343716. 
 
+## Note
 
- 
-
-Points to tackle:
-
-We have worked these point in the following files and will incorporate them in this document later on.:
+Further information on the research, design process can be found in the following file:
 https://drive.google.com/drive/folders/1lBiena62lc3Bb47pauYFTSbWYFz8CrRj
