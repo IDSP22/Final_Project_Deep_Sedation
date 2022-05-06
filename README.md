@@ -18,8 +18,7 @@
 
 <br/>
 
-  <div style="text-align: right">Furthermore, in the manuscript [3], they described “patient characteristics, including age, sex, race/ethnicity, reported tobacco use, comorbidities, body mass index (BMI), SOFA score, receipt of benzodiazepines, and exposure to deep sedation. They carried out bivariate tests of association between patient characteristics and death within 90 days using chi-square tests.” And they “hypothesized that Hispanic patients enrolled in the control arm of the ROSE trial spent more time deeply sedated than non-Hispanic patients and that greater exposure to deep sedation was associated with increased 90-day mortality” [3].
-<div/>
+  <div style="text-align: right">Furthermore, in the manuscript [3], they described “patient characteristics, including age, sex, race/ethnicity, reported tobacco use, comorbidities, body mass index (BMI), SOFA score, receipt of benzodiazepines, and exposure to deep sedation. They carried out bivariate tests of association between patient characteristics and death within 90 days using chi-square tests.” And they “hypothesized that Hispanic patients enrolled in the control arm of the ROSE trial spent more time deeply sedated than non-Hispanic patients and that greater exposure to deep sedation was associated with increased 90-day mortality” [3].<div/>
 
 ## Description of the problem
 ## Description of the end user 
