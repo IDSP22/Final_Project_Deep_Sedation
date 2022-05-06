@@ -8,6 +8,8 @@ In the manuscript[2] provided, “deep sedation is defined as the proportion of 
 
 ![Richmond](Richmond.png)
 
+![Risker_Ramsay](Risk_Ramsay.png)
+
 
 
 ## Description of the problem
