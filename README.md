@@ -3,7 +3,7 @@ We will create a prototype app that helps clinicians to assess the degree of dee
 
 Points to tackle:
 
-We have worked this point in the following files and will incorporate them in this document later on.:
+We have worked these point in the following files and will incorporate them in this document later on.:
 https://drive.google.com/drive/folders/1lBiena62lc3Bb47pauYFTSbWYFz8CrRj
 
 Overview of the project 
@@ -19,3 +19,4 @@ Second round prototype - Application
 Describe the latest version and, if applicable, any feedback you received (you may not get to this stage of feedback on the latest version)
 Link of Published Application
 Describe potential next steps, either for user testing or development
+
