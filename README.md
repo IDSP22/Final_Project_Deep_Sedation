@@ -39,8 +39,8 @@ Clinician and any other user we have access to will need to answer the following
  
 * What is the primary patient outcome of interest (deep sedation/ mortality rate)?
 * Is the main purpuse of this interactive app to sensibilize clinitians on the disparity of deep sedation?
-* How are the visualizations going to help the decision making process?
-* How does the visualization look for you?
+* How do they expect the visualizations going to help the decision making process, if there is any expectation?
+* How do you picture the dynamic visualization?
 
 #### Explore (User’s needs)
 Participants will need to prioritize the following needs 
@@ -122,6 +122,25 @@ The final report will be delivered to the sponsor of the project and will contai
 *	Suggest follow-on research. 
 
 ## Findings/results from interviews 
+ 
+## Initial interview:
+  
+* What is the primary patient outcome of interest (deep sedation/ mortality rate)?
+  - In the initial interview both participants addrees that both outcomes deep sedation and mortality rate are of interest.
+  
+* Is the main purpuse of this interactive app to sensibilize clinitians on the disparity of deep sedation?
+  - From the initial interview with Professor Mari Armstrong-Hough, that is our understanding.
+  
+* How do they expect the visualizations going to help the decision making process, if there is any expectation?
+  - **PENDING**
+  
+* How do you picture the dynamic visualization?
+  -Mostly we have discussed a dashboard with dynamic tables. 
+  
+## Test interview:
+  **PENDING**
+  
+  
 ## Prototyping round 1
 ## Developments after round 1
 ## Plan for testing or getting feedback on the first round prototype
