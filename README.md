@@ -74,9 +74,7 @@ Additionally, this research will try to answer the following questions:
 There will be two main participants for this App. Professor Mari Armstrong-Hough, and Dr. Tomas Valley.
 
 #### Methodology (test design)
-<div style="text-align: right">This study will be exploratory to gather information on the purpose fulfilling of this App.<div/> 
-
-<div style="text-align: right">The methodology for this study will be a within-subjects study, both participants will try all the sections of the App. We will conduct a 30 minutes to one hour usability study sessions. We will use 10 minutes to introduce the participants to the session, review basic background information with the participants, and allow 15 minutes for the users to test the App. In the last 5 minuteswe will conduct a post-test debriefing interview. If the session could last one hour, each time period will be doubled.<div/>
+<div style="text-align: right">This study will be exploratory to gather information on the purpose fulfilling of this App. The methodology for this study will be a within-subjects study, both participants will try all the sections of the App. We will conduct a 30 minutes to one hour usability study sessions. We will use 5 minutes to introduce the participants to the session, review basic background information with the participants, and allow 15 minutes for the users to test the App. In the last 10 minuteswe will conduct a post-test debriefing interview. If the session could last one hour, each time period will be doubled.<div/>
 
 #### Session outline and timing 
 <div style="text-align: right">The test sessions will be done online over a zoom meeting. And we will schedule the timing later.<div/>
@@ -91,40 +89,30 @@ Discuss:
 *	Moderator’s role.
 *	The protocol for the session.
 
-#### Background interview (10 minutes)
-Discuss the participant’s:
-•	Experience learning Regression Assumptions.
-•	Purpose of learning Regression Assumptions. 
+#### Tasks (15-30 min)
+Participants will explore the Deep Sedation App. 
 
-#### Tasks (30 min)
-Participants will explore the Regression Assumptions App. 
-
-#### Post-test debriefing (10 min)
-•	Ask questions on how this App changed users’ concepts on Regression Assumption broad questions to collect data on the participants experience.
-•	Ask questions on the design’s clarity of the App.  
-•	Ask how this app could be improve. 
-•	Follow up on any problems that came up. 
+#### Post-test debriefing (10-20 min)
+*	Ask questions on how this App is addressing the problem on sensibilizing clinitians.
+*	Ask questions on the design’s clarity of the App.  
+*	Ask how this app could be improve. 
+*	Follow up on any problems that came up. 
 
 #### Task list 
-1.	Let users read the instructions and analyze if they are clear. 
-2.	Let users read the prerequisites and analyze if they are clear. 
-3.	Take time on how long it takes users to read the prerequisites.
-4.	Let users complete the challenge in the App and take time.
-5.	Let users play with the game in the App and evaluate how useful it is. 
+1.	Let users interact with the dashboard. 
+2.	Let users interact with the visualization.
 
 #### Test environment, equipment, and logistics 
-I will use a controlled setting to conduct the sessions. The study will take place at the ASH study room in NYU. 
-Participants will use a Windows PC and Google Chrome Version 99.0.04844.74 with a high-speed internet connection. Each participant will have a webcam to record their faces. And a software to record the screen. 
+Since the test will be carry out online, the equipment used will depend on the one the participant's have.
 
 #### Test moderator role
 The role of the moderator in this study will be a human factors specialist.
 
 #### Data to be collected and evaluation measures
-•	Clarity of the instructions.
-•	Clarity of the pre-requisites.
-•	Time to complete the pre-requisites.
-•	What the users learnt from the game in the App. 
-
+*	Clarity of the dashboard.
+*	Clarity of the visualization.
+*	Usability for the clinitians.
+  
 #### Report contents and presentation
 The final report will be delivered to the sponsor of the project and will contain:
 •	Background of the study, including goals, methodology, and participants characteristics. 
