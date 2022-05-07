@@ -139,9 +139,16 @@ The final report will be delivered to the sponsor of the project and will contai
   
 ## Test interview:
   **PENDING**
-  
+
+* Do you consider the design is appropriate?
+* Did you find the dashboard useful?
+* Is the visualization fullfilling the purpose of sensibilize?  
+* Are the colors used appropriate?
+* What would you modify?
   
 ## Prototyping round 1
+<div style="text-align: right">So far we are envisioning a dashboard that ilustrates the odds of exposure to deep sedation given ethnicities and other characteristics. And a visualization that illustrates the mortality rate after 90 days by ethnicity.<div/>
+ 
 ## Developments after round 1
 ## Plan for testing or getting feedback on the first round prototype
 ## Second round prototype - Application 
