@@ -71,55 +71,63 @@ Additionally, this research will try to answer the following questions:
 * What would you modify?
   
 #### Participant characteristics
-  
 There will be two main participants for this App. Professor Mari Armstrong-Hough, and Dr. Tomas Valley.
 
-Methodology (test design)
+#### Methodology (test design)
 This study will be exploratory to gather data the effectiveness of the Regression Assumption App. The users will fall into two groups depending on their mastery of the Regression Assumptions. 
 
 The methodology for this study will be a within-subjects study, each participant will try all the sections of the App. I will conduct two individual one hour usability study sessions. In each session it will be a split of 50/50 between experience and novice users. I will use 20 minutes to introduce the participants to the session, review basic background information with the participant, and then conduct a post-test debriefing interview. And allow 40 minutes for the users to test the App.
-Session outline and timing 
+
+#### Session outline and timing 
 The test sessions will be one our long. I will use 20 minutes to introduce the session and conduct a post-test debriefing. The sessions will take place at the ASH study room in NYU. 
-Pre-test arrangements 
+
+#### Pre-test arrangements 
 Have the participant:
 •	Review and sign nondisclosures and recording permissions.
 •	Fill out a screener questionnaire. 
-Introduction to the session (10 minutes)
+
+#### Introduction to the session (10 minutes)
 Discuss:
 •	Participant’s experience with usability studies.
 •	Importance of their involvement in the study.
 •	Moderator’s role.
 •	The protocol for the session.
-Background interview (10 minutes)
+
+#### Background interview (10 minutes)
 Discuss the participant’s:
 •	Experience learning Regression Assumptions.
 •	Purpose of learning Regression Assumptions. 
-Tasks (30 min)
+
+#### Tasks (30 min)
 Participants will explore the Regression Assumptions App. 
-Post-test debriefing (10 min)
+
+#### Post-test debriefing (10 min)
 •	Ask questions on how this App changed users’ concepts on Regression Assumption broad questions to collect data on the participants experience.
 •	Ask questions on the design’s clarity of the App.  
 •	Ask how this app could be improve. 
 •	Follow up on any problems that came up. 
 
-Task list 
+#### Task list 
 1.	Let users read the instructions and analyze if they are clear. 
 2.	Let users read the prerequisites and analyze if they are clear. 
 3.	Take time on how long it takes users to read the prerequisites.
 4.	Let users complete the challenge in the App and take time.
 5.	Let users play with the game in the App and evaluate how useful it is. 
 
-Test environment, equipment, and logistics 
+#### Test environment, equipment, and logistics 
 I will use a controlled setting to conduct the sessions. The study will take place at the ASH study room in NYU. 
 Participants will use a Windows PC and Google Chrome Version 99.0.04844.74 with a high-speed internet connection. Each participant will have a webcam to record their faces. And a software to record the screen. 
-Test moderator role
+
+#### Test moderator role
 The role of the moderator in this study will be a human factors specialist.
-Data to be collected and evaluation measures
+
+#### Data to be collected and evaluation measures
 •	Clarity of the instructions.
 •	Clarity of the pre-requisites.
 •	Time to complete the pre-requisites.
 •	What the users learnt from the game in the App. 
-Report contents and presentation
+
+#### Report contents and presentation
 The final report will be delivered to the sponsor of the project and will contain:
 •	Background of the study, including goals, methodology, and participants characteristics. 
 •	Findings for the research questions. 
