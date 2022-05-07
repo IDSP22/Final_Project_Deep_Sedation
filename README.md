@@ -74,24 +74,22 @@ Additionally, this research will try to answer the following questions:
 There will be two main participants for this App. Professor Mari Armstrong-Hough, and Dr. Tomas Valley.
 
 #### Methodology (test design)
-This study will be exploratory to gather data the effectiveness of the Regression Assumption App. The users will fall into two groups depending on their mastery of the Regression Assumptions. 
+<div style="text-align: right">This study will be exploratory to gather information on the purpose fulfilling of this App.<div/> 
 
-The methodology for this study will be a within-subjects study, each participant will try all the sections of the App. I will conduct two individual one hour usability study sessions. In each session it will be a split of 50/50 between experience and novice users. I will use 20 minutes to introduce the participants to the session, review basic background information with the participant, and then conduct a post-test debriefing interview. And allow 40 minutes for the users to test the App.
+<div style="text-align: right">The methodology for this study will be a within-subjects study, both participants will try all the sections of the App. We will conduct a 30 minutes to one hour usability study sessions. We will use 10 minutes to introduce the participants to the session, review basic background information with the participants, and allow 15 minutes for the users to test the App. In the last 5 minuteswe will conduct a post-test debriefing interview. If the session could last one hour, each time period will be doubled.<div/>
 
 #### Session outline and timing 
-The test sessions will be one our long. I will use 20 minutes to introduce the session and conduct a post-test debriefing. The sessions will take place at the ASH study room in NYU. 
+<div style="text-align: right">The test sessions will be done online over a zoom meeting. And we will schedule the timing later.<div/>
 
 #### Pre-test arrangements 
 Have the participant:
-•	Review and sign nondisclosures and recording permissions.
-•	Fill out a screener questionnaire. 
+*	Ask the participants if the session can be recorded. 
 
-#### Introduction to the session (10 minutes)
+#### Introduction to the session (5-10 minutes)
 Discuss:
-•	Participant’s experience with usability studies.
-•	Importance of their involvement in the study.
-•	Moderator’s role.
-•	The protocol for the session.
+*	Importance of participant's involvement in the study.
+*	Moderator’s role.
+*	The protocol for the session.
 
 #### Background interview (10 minutes)
 Discuss the participant’s:
