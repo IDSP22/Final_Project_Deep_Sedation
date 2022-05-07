@@ -115,18 +115,12 @@ The role of the moderator in this study will be a human factors specialist.
   
 #### Report contents and presentation
 The final report will be delivered to the sponsor of the project and will contain:
-•	Background of the study, including goals, methodology, and participants characteristics. 
-•	Findings for the research questions. 
-•	Quantitative results.
-•	Discussion on the implications of the results. 
-•	Provides recommendations. 
-•	Suggest follow-on research. 
-The sponsor will review and comment on the draft. I will incorporate the agreed changes and then present a summary of the findings.
-  
-  
-  
-  
-  
+*	Background of the study, including goals, methodology, and participants characteristics. 
+*	Findings for the research questions. 
+*	Discussion on the implications of the findings. 
+*	Provide recommendations. 
+*	Suggest follow-on research. 
+
 ## Findings/results from interviews 
 ## Prototyping round 1
 ## Developments after round 1
