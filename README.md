@@ -59,14 +59,20 @@ This testing plan is designed to collect information on the users experience of 
 #### Purpose, goals, and objectives of the test 
 The goals of this test would be to:
 *	Asses if the app is helping sensibilize clinitians about the problem. 
-* Fine tuning the App prototype. 
+* Fine tunning the App prototype. 
   
 #### Research questions 
 Additionally, this research will try to answer the following questions:  
   
-* 
+* Do you consider the design is appropriate?
+* Did you find the dashboard useful?
+* Is the visualization fullfilling the purpose of sensibilize?  
+* Are the colors used appropriate?
+* What would you modify?
   
 #### Participant characteristics
+  
+There will be two main participants for this App. Professor Mari Armstrong-Hough, and Dr. Tomas Valley.
 
 Methodology (test design)
 This study will be exploratory to gather data the effectiveness of the Regression Assumption App. The users will fall into two groups depending on their mastery of the Regression Assumptions. 
