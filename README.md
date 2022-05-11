@@ -22,11 +22,14 @@
 
 ## Description of the problem
     
-<div style="text-align: right">Mari Armstrong and her research team made a study on the disparity of deep sedation across ethnicities and associated this degree of sedation with the 90-day mortality rate. And they made interesting findings but they are looking for a better way to communicate this result to the clinicians. This to sensibilize and make clinicians conscious of the disparity in sedation administered and mortality rates to potentially influence their decisions taking on the degree of deep sedation.<div/>
+<div style="text-align: right">Mari Armstrong and her research team made a study on the disparity of deep sedation across ethnicities, and made interesting findings. However, they are looking for a better way to communicate this result to the clinicians (doctors) and clinical scientists (lab savvys). There are two main problems they are looking to solve:<div/>
+ 
+ *Sensitize clinitians.
+ *Allow clinical scientists to play with the data.
   
 ## Description of the end user 
  
-<div style="text-align: right">The end users will be critical care physicians that have understanding of statistical interpretation of linear regression. The question is if they also understand multilevel model interpretation and if they should require this to interpret the visualization.<div/>
+<div style="text-align: right">The end users will be critical care physicians and clinical scientists that have understanding of statistical interpretation of linear regression.<div/>
  
 ## User Research and Testing Plan
 
@@ -66,7 +69,7 @@ Additionally, this research will try to answer the following questions:
   
 * Do you consider the design is appropriate?
 * Did you find the dashboard useful?
-* Is the visualization fullfilling the purpose of sensibilize?  
+* Is the visualization fullfilling the purpose of sensitize?  
 * Are the colors used appropriate?
 * What would you modify?
   
@@ -93,9 +96,9 @@ Discuss:
 Participants will explore the Deep Sedation App. 
 
 #### Post-test debriefing (10-20 min)
-*	Ask questions on how this App is addressing the problem on sensibilizing clinitians.
+*	Ask questions on how this App is addressing the problem on sensibilizing clinitians and allowing clinical scientists to play with the data.
 *	Ask questions on the design’s clarity of the App.  
-*	Ask how this app could be improve. 
+*	Ask how this app could be improved. 
 *	Follow up on any problems that came up. 
 
 #### Task list 
@@ -126,28 +129,40 @@ The final report will be delivered to the sponsor of the project and will contai
 ## Initial interview:
   
 * What is the primary patient outcome of interest (deep sedation/ mortality rate)?
-  - In the initial interview both participants addrees that both outcomes deep sedation and mortality rate are of interest.
+  - In the initial interview both participants addrees that both outcomes deep sedation and mortality rate are of interest. However, on later meetings the scope 
+  of the project was narrowed to deep sedation. In words of Professor Armstrong-Hough "this is the clearest outcome they have found".
   
 * Is the main purpuse of this interactive app to sensibilize clinitians on the disparity of deep sedation?
-  - From the initial interview with Professor Mari Armstrong-Hough, that is our understanding.
+  - From the initial interview with Professor Mari Armstrong-Hough, that is our understanding. However, they would also like to see a section where technical   
+  clinicians could play with the data. 
   
 * How do they expect the visualizations going to help the decision making process, if there is any expectation?
-  - **PENDING**
+  - The want to sensibilize about the disparity to create awareness of the problem and its implications. 
   
 * How do you picture the dynamic visualization?
   -Mostly we have discussed a dashboard with dynamic tables. 
   
 ## Test interview:
-  **PENDING**
-
+  
+  We showed our stakeholders the first draft of our idea. Even when we did not had a completed app, they were able to visualize the proposed structure.
+  
 * Do you consider the design is appropriate?
+  -They mentioned that they would like to see the visualization with the tables side by side. 
+  
 * Did you find the dashboard useful?
-* Is the visualization fullfilling the purpose of sensibilize?  
+  -They found the dashboard would be useful for the technical scientists. 
+  
+* Is the visualization fullfilling the purpose of sensitize?  
+  -They like the idea on the emotional design of the visualization to sensitize clinitians.  
+  
 * Are the colors used appropriate?
+  -We were not able to address this question in this first round. 
+  
 * What would you modify?
+  -Our original design had two tabs, one for the dashboard and one for the visualization. However, they mentioned they would like to see it side by side. 
   
 ## Prototyping round 1
-<div style="text-align: right">So far we are envisioning a dashboard that ilustrates the odds of exposure to deep sedation given ethnicities and other characteristics. And a visualization that illustrates the mortality rate after 90 days by ethnicity.<div/>
+<div style="text-align: right">So far we are envisioning a dashboard that ilustrates the odds of exposure to deep sedation given ethnicities and other characteristics. And a visualization that illustrates the disparities on deep sedation accross ethnicities.<div/>
  
 ## Developments after round 1
 ## Plan for testing or getting feedback on the first round prototype
