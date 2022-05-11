@@ -162,7 +162,7 @@ The final report will be delivered to the sponsor of the project and will contai
   -Our original design had two tabs, one for the dashboard and one for the visualization. However, they mentioned they would like to see it side by side. 
   
 ## Prototyping round 1
-<div style="text-align: right">So far we are envisioning a dashboard that ilustrates the odds of exposure to deep sedation given ethnicities and other characteristics. And a visualization that illustrates the disparities on deep sedation accross ethnicities.<div/>
+<div style="text-align: right">We envisioned and presented and idea of two tabs. In one of the tabs, a dashboard that ilustrates the odds of exposure to deep sedation given ethnicities and other characteristics. And in a second tab a visualization that illustrates the disparities on deep sedation accross ethnicities.<div/>
  
 ## Developments after round 1
 ## Plan for testing or getting feedback on the first round prototype
