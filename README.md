@@ -41,7 +41,7 @@
 Clinician and any other user we have access to will need to answer the following interview questions:
  
 * What is the primary patient outcome of interest (deep sedation/ mortality rate)?
-* Is the main purpuse of this interactive app to sensibilize clinitians on the disparity of deep sedation?
+* Is the main porpuse of this interactive app to sensibilize clinitians on the disparity of deep sedation?
 * How do they expect the visualizations going to help the decision making process, if there is any expectation?
 * How do you picture the dynamic visualization?
 
