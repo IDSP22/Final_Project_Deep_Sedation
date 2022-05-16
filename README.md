@@ -137,7 +137,7 @@ The final report will be delivered to the sponsor of the project and will contai
   clinicians could play with the data. 
   
 * How do they expect the visualizations going to help the decision making process, if there is any expectation?
-  - The want to sensibilize about the disparity to create awareness of the problem and its implications. 
+  - They want to sensitize about the disparity to create awareness of the problem and its implications. 
   
 * How do you picture the dynamic visualization?
   -Mostly we have discussed a dashboard with dynamic tables. 
@@ -159,10 +159,10 @@ The final report will be delivered to the sponsor of the project and will contai
   -We were not able to address this question in this first round. 
   
 * What would you modify?
-  -Our original design had two tabs, one for the dashboard and one for the visualization. However, they mentioned they would like to see it side by side. 
+  -Our original design had two tabs, one for the dashboard and one for the visualization. However, they mentioned they would like to see it side by side. Considering the space, we do not consider this viable. 
   
 ## Prototyping round 1
-<div style="text-align: right">We envisioned and presented and idea of two tabs. In one of the tabs, a dashboard that ilustrates the odds of exposure to deep sedation given ethnicities and other characteristics. And in a second tab a visualization that illustrates the disparities on deep sedation accross ethnicities.<div/>
+<div style="text-align: right">We envisioned and presented and idea of two tabs. In one of them, a dashboard that ilustrates the odds of exposure to deep sedation given ethnicities and other characteristics. And in a second tab a visualization that illustrates the disparities on deep sedation accross ethnicities.<div/>
  
 ## Developments after round 1
 ## Plan for testing or getting feedback on the first round prototype
