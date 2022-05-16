@@ -140,26 +140,26 @@ The final report will be delivered to the sponsor of the project and will contai
   - They want to sensitize about the disparity to create awareness of the problem and its implications. 
   
 * How do you picture the dynamic visualization?
-  -Mostly we have discussed a dashboard with dynamic tables. 
+  - Mostly we have discussed a dashboard with dynamic tables. 
   
 ## Test interview:
   
   We showed our stakeholders the first draft of our idea. Even when we did not had a completed app, they were able to visualize the proposed structure.
   
 * Do you consider the design is appropriate?
-  -They mentioned that they would like to see the visualization with the tables side by side. 
+  - They mentioned that they would like to see the visualization with the tables side by side. 
   
 * Did you find the dashboard useful?
-  -They found the dashboard would be useful for the technical scientists. 
+  - They found the dashboard would be useful for the technical scientists. 
   
 * Is the visualization fullfilling the purpose of sensitize?  
-  -They like the idea on the emotional design of the visualization to sensitize clinitians.  
+  - They like the idea on the emotional design of the visualization to sensitize clinitians.  
   
 * Are the colors used appropriate?
-  -We were not able to address this question in this first round. 
+  - We were not able to address this question in this first round. 
   
 * What would you modify?
-  -Our original design had two tabs, one for the dashboard and one for the visualization. However, they mentioned they would like to see it side by side. Considering the space, we do not consider this viable. 
+  - Our original design had two tabs, one for the dashboard and one for the visualization. However, they mentioned they would like to see it side by side. Considering the space, we do not consider this viable. 
   
 ## Prototyping round 1
 <div style="text-align: right">We envisioned and presented and idea of two tabs. In one of them, a dashboard that ilustrates the odds of exposure to deep sedation given ethnicities and other characteristics. And in a second tab a visualization that illustrates the disparities on deep sedation accross ethnicities.<div/>
@@ -170,6 +170,7 @@ The final report will be delivered to the sponsor of the project and will contai
 ## Describe the latest version and, if applicable, any feedback you received (you may not get to this stage of feedback on the latest version)
 ## Link of Published Application
 ## Potential next steps
+  
 ## References
 [1] “Acute Respiratory Distress Syndrome - What Is Acute Respiratory Distress Syndrome? | NHLBI, NIH.” National Heart, Lung, and Blood Institute, 24 Mar. 2022, www.nhlbi.nih.gov/health/ards.
 <br/>  
