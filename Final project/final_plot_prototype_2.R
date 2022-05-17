@@ -107,7 +107,7 @@ viz_dat <- viz_dat %>%
 
 #Plot
 
-fill <- c("#006666", "#339999", "#66CCCC", "#99FFFF")
+fill <- c("#ffffcc", "#a1dab4", "#41b6c4", "#225ea8")
 
 static_plot <- ggplot(viz_dat, aes(rank), group=Ethnicity) +
   geom_tile(aes(y=prop/2,
@@ -119,9 +119,7 @@ static_plot <- ggplot(viz_dat, aes(rank), group=Ethnicity) +
   coord_flip(clip = "off", expand = FALSE) +#flipping the plot
   scale_y_continuous(labels = scales::comma) +
   scale_x_reverse() +
-  scale_fill_manual(guide=guide_legend(title.theme = element_text(size=20),
-                                         label.theme = element_text(size=15)),
-                      values = fill)+
+  scale_fill_manual(values = fill)+
   theme(axis.line=element_blank(),
         axis.text.x=element_blank(),
         axis.text.y=element_blank(),
