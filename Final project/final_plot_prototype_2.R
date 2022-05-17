@@ -107,6 +107,8 @@ viz_dat <- viz_dat %>%
 
 #Plot
 
+fill <- c("#006666", "#339999", "#66CCCC", "#99FFFF")
+
 static_plot <- ggplot(viz_dat, aes(rank), group=Ethnicity) +
   geom_tile(aes(y=prop/2,
                 height=prop, fill=Ethnicity, 
@@ -117,8 +119,9 @@ static_plot <- ggplot(viz_dat, aes(rank), group=Ethnicity) +
   coord_flip(clip = "off", expand = FALSE) +#flipping the plot
   scale_y_continuous(labels = scales::comma) +
   scale_x_reverse() +
-  scale_fill_discrete(guide=guide_legend(title.theme = element_text(size=20),
-                                         label.theme = element_text(size=15)))+
+  scale_fill_manual(guide=guide_legend(title.theme = element_text(size=20),
+                                         label.theme = element_text(size=15)),
+                      values = fill)+
   theme(axis.line=element_blank(),
         axis.text.x=element_blank(),
         axis.text.y=element_blank(),
@@ -126,7 +129,7 @@ static_plot <- ggplot(viz_dat, aes(rank), group=Ethnicity) +
         axis.title.x=element_blank(),
         axis.title.y=element_blank(),
         legend.position = "none",
-        panel.background=element_blank(),
+        panel.background=element_rect(fill = "#CCCCCC"),
         panel.border=element_blank(),
         panel.grid.major=element_blank(),
         panel.grid.minor=element_blank(),
@@ -137,8 +140,9 @@ static_plot <- ggplot(viz_dat, aes(rank), group=Ethnicity) +
         plot.subtitle=element_text(size=18, hjust=1, 
                                      face="italic", color="grey"),
         plot.caption=element_text(size=14, hjust=1, face="italic", color="grey"),
-        plot.background=element_blank(),
+        plot.background=element_rect(fill = "#CCCCCC"),
         plot.margin=margin(2,2,2,4,"cm"))
+
 
 #Animate plot
 
