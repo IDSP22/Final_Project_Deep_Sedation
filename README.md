@@ -176,8 +176,10 @@ The final report will be delivered to the sponsor of the project and will contai
 ## Describe the latest version and, if applicable, any feedback you received (you may not get to this stage of feedback on the latest version)
 ## Link of Published Application
 ## Potential next steps
+   
+   <div style="text-align: right">Some of the potential next steps would be to fine tune the model estimation of the app and make the visualization reactive. As of now it is a gif image generated from an R file.<div/>
     
-    <div style="text-align: right">Some of the potential next steps would be to fine tune the model estimation of the app and make the visualization reactive. As of now it is a gif image generated from an R file.<div/> 
+
   
 ## References
 [1] “Acute Respiratory Distress Syndrome - What Is Acute Respiratory Distress Syndrome? | NHLBI, NIH.” National Heart, Lung, and Blood Institute, 24 Mar. 2022, www.nhlbi.nih.gov/health/ards.
