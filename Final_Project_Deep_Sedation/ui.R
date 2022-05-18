@@ -72,7 +72,7 @@ column(12,div(HTML("<hr>"), align = "center")),
               )),#end of tab box
         
       # Visualization Tab -------------------------------------------------------------
-              
+              ## The file to generate the visualization could be found on Final_Project_Deep_Sedation/Final project/final_plot_prototype_2.R on the Github page
        tabItem(tabName = "viz",
        img(src="Ethnicity_animation.gif", align = "center",height='500px',width='1000px')
               ) #end viz tab   
