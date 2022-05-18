@@ -32,7 +32,8 @@ dashboardPage(
       menuItem("Intro", tabName = "intro",icon=icon("bookmark")),
       menuItem("Collect", tabName = "collect",icon=icon("folder-open")),
       menuItem("Describe",  tabName = "describe",icon=icon("clipboard")),
-      menuItem("Predict",  tabName = "predict", icon=icon("chart-line"))
+      menuItem("Predict",  tabName = "predict", icon=icon("chart-line")),
+      menuItem("Visualization",  tabName = "viz", icon=icon("cogs"))
     ),
  
 column(12,div(HTML("<hr>"), align = "center")),
