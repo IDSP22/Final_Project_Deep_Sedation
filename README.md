@@ -165,11 +165,19 @@ The final report will be delivered to the sponsor of the project and will contai
 <div style="text-align: right">We envisioned and presented and idea of two tabs. In one of them, a dashboard that ilustrates the odds of exposure to deep sedation given ethnicities and other characteristics. And in a second tab a visualization that illustrates the disparities on deep sedation accross ethnicities.<div/>
  
 ## Developments after round 1
+
+ <div style="text-align: right">We created a new app with four tabs in which the research team is able to upload their data. So, their estimations could be done based on that instead of simulated data. We are still working on the design for the linear regression dashboard. And we included the visualization as a gif.<div/>
+
 ## Plan for testing or getting feedback on the first round prototype
+   
+  <div style="text-align: right">We planned a meeting. However due to personal circumstances on both sides of the team we were not able to carry it out. And we will try to schedule it for Friday.<div/> 
+   
 ## Second round prototype - Application 
 ## Describe the latest version and, if applicable, any feedback you received (you may not get to this stage of feedback on the latest version)
 ## Link of Published Application
 ## Potential next steps
+    
+    <div style="text-align: right">Some of the potential next steps would be to fine tune the model estimation of the app and make the visualization reactive. As of now it is a gif image generated from an R file. <div/> 
   
 ## References
 [1] “Acute Respiratory Distress Syndrome - What Is Acute Respiratory Distress Syndrome? | NHLBI, NIH.” National Heart, Lung, and Blood Institute, 24 Mar. 2022, www.nhlbi.nih.gov/health/ards.
