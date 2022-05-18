@@ -69,9 +69,15 @@ column(12,div(HTML("<hr>"), align = "center")),
                               )
 
                      
-              )#end of tab box
+              )),#end of tab box
+        
+      # Visualization Tab -------------------------------------------------------------
               
-      )
+       tabItem(tabName = "viz",
+       img(src="Ethnicity_animation.gif", align = "center",height='500px',width='1000px')
+              ) #end viz tab   
+              
+      
     ),
     
     #CSS style
