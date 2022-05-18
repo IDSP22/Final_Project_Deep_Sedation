@@ -10,14 +10,12 @@ function(input, output, session){
   
   
   filedata <- reactive({
-    infile <- input$file
-    if (is.null(infile)) {
-      # User has not uploaded a file yet
-      return(NULL)
-    }
-    fread(infile$datapath, check.names = T, data.table = F, nrows = input$samplesize)
-    #read.csv.sql(infile$datapath, sql = "select * from file order by random() limit 10000")
-    #switched to the data.table read in as it is much quicker
+    req(input$file)
+    ext <- tools::file_ext(input$file$name)
+    switch (ext,
+            csv = vroom::vroom(input$file$datapath, delim = ","),
+            validate("Invalid file; Please upload a .csv file") #Verify the type of file that is uploaded
+    ) #Read csv_file; this could later be updated to accept different types of data.
   })
   
   #on the first tab we manipulate the data and save it for use in the other tabs
