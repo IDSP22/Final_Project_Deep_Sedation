@@ -26,8 +26,8 @@ landing <-list(
       </p>
 
       <p id = 'introtext'>
-        To get started, upload a CSV or excel into the Critical Care dashboard in the <strong> Collect </strong> tab. The critical care  works best with clean data with descriptive column names. 
-      Nimble can tell you about what's in your data in the <strong> Describe </strong> tab, about hidden relationships 
+        To get started, upload a CSV or excel into the Critical Care dashboard in the <strong> Data Entry </strong> tab. The critical care  works best with clean data with descriptive column names. 
+      This dashboard can help show what's in your data in the <strong> Visualization </strong> tab, about hidden relationships 
     in your data with the <strong> Discover </strong> tab, and about future predictions in the <strong> Predict </strong> tab.
       </p>
       
@@ -171,17 +171,14 @@ predict = list(
   </p>
   <ul type='disc'>
   <li>
-  What will citizens' needs be like in the future?
+  What will patients' specific wellness score be like in the future?
   </li>
   <li>
-  When will city, state, and federal infrastructure need to be replaced?  
-  </li>
-  <li>
-  Where will violent crimes occur?
+  How likely a patient is to be sedated?
   </li>
   </ul>
   <p>
-  CriticalCare Dashboard currently supports Regression and Random Forest Analysis.
+  The CriticalCare Dashboard currently supports Regression and Random Forest Analysis.
   </p>
 
   <div class='predict-containers'>
@@ -190,7 +187,7 @@ predict = list(
       When to use Linear Regression
       </h1>
       <p>
-      Linear regressions work wonders when there is a simple relationship between the predictor variables and the response variable. What regressions lack in predictive power, they make up for in interpretability and speed-that is, they are easy to understand and work well with large datasets. Linear regressions tend to overfit the provided data, meaning that they are often not generalizable to new data. Regressions should be the first stop when testing the relationship between two things.
+      Linear regressions work wonders when there is a simple relationship between the predictor variables and the response variable. What regressions lack in predictive power, they make up for in interpretability and speed-that is, they are easy to understand and work well with large datasets. Linear regressions tend to overfit the provided data, meaning that they are often not generalizable to new data. Regressions should be the first stop when testing the relationship between two variables.
       </p>
     </div>
     <div class='predict-container'>

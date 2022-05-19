@@ -17,7 +17,7 @@ function(input, output, session){
             validate("Invalid file; Please upload a .csv file") #Verify the type of file that is uploaded
     ) #Read csv_file; this could later be updated to accept different types of data.
   })
-  
+
   #on the first tab we manipulate the data and save it for use in the other tabs
   output$tab1 <- renderDataTable({
     
@@ -26,13 +26,25 @@ function(input, output, session){
     sample <- sample.int(n = nrow(master$dataframe), size = floor(.75*nrow(master$dataframe)), replace = F)
     master$train <- master$dataframe[sample, ]
     master$test  <- master$dataframe[-sample, ]
+    # this function uploads the data
+    # if(input$save == 0){
+    #   master$dataframe <- filedata()
+    # } else {
+    #   observeEvent(input$save, {
+    #     master$dataframe <- filedata()[,input$select_columns]
+    #   })
+    # }
     
     temp <<- master$dataframe
     
     #to reduce code, creating a list of commonly used coltypes
     
     if(!is.null(master$dataframe)){
+      
+      
       numbers <- names(master$dataframe[unlist(lapply(master$dataframe, is.numeric))])
+      
+      #non_numeric <- names(master$dataframe[unlist(lapply(master$dataframe, !is_ContinousNumeric))])
       
       categoricals <-names(master$dataframe)[!names(master$dataframe) %in% numbers] #because it could be factors or strings I just went for not numbers
       
@@ -68,7 +80,6 @@ function(input, output, session){
     }
     datatable(master$dataframe,
               rownames =F,
-              filter='top',
               extensions = c("Scroller", 'Buttons'),
               style = "bootstrap" ,
               
@@ -82,6 +93,7 @@ function(input, output, session){
     ) #the dom decides what parts of datatable are shown
     #https://datatables.net/reference/option/dom
   })
+  
   
   observeEvent(input$file, {
     updateSelectInput(session,
@@ -120,8 +132,9 @@ function(input, output, session){
   
   # Predict Tab ------------------------------------------------------------
 
-
-  # Validate Tab ------------------------------------------------------------
+  # Predict Tab ------------------------------------------------------------
+  source("server/predict/regression.R", local = T)
+  source("server/predict/logistic_regression.R", local = T)
 
 }
 

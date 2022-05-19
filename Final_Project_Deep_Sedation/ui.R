@@ -10,8 +10,6 @@ customDownloadbutton <- function(outputId, label = " Download Workbook"){
 
 # 5. results should include AIC and general the general regression summary
 
-# **Bonus**
-#   This is completely optional but if you would like to make a more advanced app add the option to perform leave one out cross validation. 
 
 
 dashboardPage(
@@ -29,11 +27,11 @@ dashboardPage(
     #tags$style(HTML(".main-sidebar{width: 300px; }")),
     sidebarMenu(
       
-      menuItem("Intro", tabName = "intro",icon=icon("bookmark")),
-      menuItem("Collect", tabName = "collect",icon=icon("folder-open")),
-      menuItem("Describe",  tabName = "describe",icon=icon("clipboard")),
-      menuItem("Predict",  tabName = "predict", icon=icon("chart-line")),
-      menuItem("Visualization",  tabName = "viz", icon=icon("cogs"))
+      menuItem("Welcome", tabName = "intro",icon=icon("bookmark")),
+      menuItem("Data Entry", tabName = "collect",icon=icon("folder-open")),
+      menuItem("Visualization",  tabName = "describe",icon=icon("cogs")),
+      menuItem("Predict",  tabName = "predict", icon=icon("chart-line"))
+     
     ),
  
 column(12,div(HTML("<hr>"), align = "center")),
@@ -51,7 +49,7 @@ column(12,div(HTML("<hr>"), align = "center")),
       # Intro Tab ---------------------------------------------------------------
       
       tabItem(tabName="intro",
-              class = "introbg"
+              source("ui/dashboard.R")$value
       ),# end of intro tab
       
       # Collect Tab -------------------------------------------------------------
@@ -60,23 +58,38 @@ column(12,div(HTML("<hr>"), align = "center")),
       source("ui/collect_ui.R")$value       
       ), #end collect tab
       
+      # Visualization Tab -------------------------------------------------------------
+      ## The file to generate the visualization could be found on Final_Project_Deep_Sedation/Final project/final_plot_prototype_2.R on the Github page
+      tabItem(tabName = "describe",
+              img(src="Ethnicity_animation.gif", align = "center",height='500px',width='1000px')
+      ), #end viz tab 
+      
       tabItem(tabName = "predict",
               tabBox(width =NULL,
                      id = "predicttab",
                      tabPanel("What is Predict?",
-                              class = "predictbg"),
-                     
-                     tabPanel("Linear Regression"
-                              )
+                              class = "predictbg",
+                              fluidRow(
+                                column(width=9,
+                                       HTML(landing$predict$body), id = "predictlandpad")
+                              )),
+                     tabPanel("Linear Regression",
+                              source("ui/predict/regression_ui.R")$value  
+                              ),
+                     tabPanel("Logistic Regression",
+                              source("ui/predict/logistic_ui.R")$value  
+                     ),
+                     tabPanel("Random Forest",
+                              source("ui/predict/randomforest_ui.R")$value
+                     ),
+                     tabPanel("Forecast",
+                              source("ui/predict/holtwinters_ui.R")$value
+                              
+                     )
 
                      
-              )),#end of tab box
-        
-      # Visualization Tab -------------------------------------------------------------
-              ## The file to generate the visualization could be found on Final_Project_Deep_Sedation/Final project/final_plot_prototype_2.R on the Github page
-       tabItem(tabName = "viz",
-       img(src="Ethnicity_animation.gif", align = "center",height='500px',width='1000px')
-              ) #end viz tab   
+              ))#end of tab box
+      
               
       
     ),

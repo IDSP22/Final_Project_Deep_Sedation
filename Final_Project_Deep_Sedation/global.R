@@ -48,6 +48,15 @@ options(shiny.maxRequestSize=100000*1024^2)
 source("module/whats_this_module.R")
 source("module/warning_module.R")
 
+is_ContinousNumeric <- function(x){
+  # if the variable is not numeric return FALSE
+  if(is.numeric(x) == FALSE){ is.Continous <- 0 } # not numeric
+  else if(length(unique(x)) < 5){ is.Continous <- 0 } # numeric discrete but has less than 5 unique values return FALSE
+  else{ is.Continous <- 1 }
+  # everything else mark continuous 
+  return(is.Continous)   # output the type
+}
+
 
 #the data must be saved as a reactive values and be available in the global scope to be used across tabs. We may have to use the <<- operator to do this
 master <- reactiveValues(
