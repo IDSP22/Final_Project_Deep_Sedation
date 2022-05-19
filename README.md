@@ -175,7 +175,7 @@ The final report will be delivered to the sponsor of the project and will contai
 ## Second round prototype - Application 
 ## Describe the latest version and, if applicable, any feedback you received (you may not get to this stage of feedback on the latest version)
 ## Link of Published Application
-    https://nsalani22.shinyapps.io/Final_Project_Deep_Sedation/
+https://nsalani22.shinyapps.io/Final_Project_Deep_Sedation/
 ## Potential next steps
    
    <div style="text-align: right">Some of the potential next steps would be to fine tune the model estimation of the app and make the visualization reactive. As of now it is a gif image generated from an R file.<div/>
