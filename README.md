@@ -46,9 +46,11 @@
  <br/>
   
 <div style="text-align: right"> There are two main goals they would like to accomplish:<div/>
+ 
+ <br/>
   
- *Sensitize clinician physicians to the racial and ethnic disparities in ARDS patients' exposure to deep sedation.
- *Enable clinical scientists to dissect ARDS patient data and model the following: patient's odds of exposure to deep sedation, and down the line, predict 90-day mortality given that a patient is deeply sedated.
+   * Sensitize clinician physicians to the racial and ethnic disparities in ARDS patients' exposure to deep sedation.
+   * Enable clinical scientists to dissect ARDS patient data and model the following: patient's odds of exposure to deep sedation, and down the line, predict 90-day mortality given that a patient is deeply sedated.
   
 ## Description of the end user 
  
