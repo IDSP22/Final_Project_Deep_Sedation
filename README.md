@@ -194,19 +194,29 @@ The final report will be delivered to the sponsor of the project and will contai
 * What would you modify?
   - Our original design had two tabs, one for the prediction and one for the visualizations/plots. However, they expressed desire to see a side-by-side tab panel design of the two tabs. Considering the UI real estate and time, we did not implement that modification. 
   
-  
-  
-  
+ 
 ## Prototyping round 1
-<div style="text-align: right">So far we are envisioning a dashboard that (1) predicts the odds of exposure to deep sedation, and, (2) a visualization that shows 90-day mortality rate, given patient ethnicity and other characteristics.<div/>
+  
+<div style="text-align: right">We presented and idea of two tabs. In one tab would be model(s) for calculating the odds of exposure to deep sedation given patient ethnicities and other characteristics. And in the second tab, would be an illustration of disparities in exposure to deep sedation across different patient ethnicities.<div/>
  
 ## Developments after round 1
+
+ <div style="text-align: right">We created a new app with four tabs in which the research team is able to upload their own patient data. So, their estimations could be done based on that instead of simulated data. We are still working on the design for the linear regressions models and predictions tab. We also included the visualization as a gif for illustration purposes.<div/>
+
 ## Plan for testing or getting feedback on the first round prototype
+   
+  <div style="text-align: right">We planned a meeting. However due to personal circumstances on both sides of the team we were not able to carry it out. We have scheduled a meeting for next week to walkthrough the demo and hear feedback for the next iteration of the app.<div/> 
+   
 ## Second round prototype - Application 
 ## Describe the latest version and, if applicable, any feedback you received (you may not get to this stage of feedback on the latest version)
 ## Link of Published Application
+https://nsalani22.shinyapps.io/Final_Project_Deep_Sedation/
 ## Potential next steps
+   
+   <div style="text-align: right">Some of the potential next steps would be to fine tune the model estimation of the app and make the visualization reactive. As of now it is a gif image generated from an R file.<div/>
+    
 
+  
 ## References
 [1] “Acute Respiratory Distress Syndrome - What Is Acute Respiratory Distress Syndrome? | NHLBI, NIH.” National Heart, Lung, and Blood Institute, 24 Mar. 2022, www.nhlbi.nih.gov/health/ards.
 <br/>  
@@ -224,4 +234,5 @@ The final report will be delivered to the sponsor of the project and will contai
 
 Further information on the research, design process can be found in the following file:
 https://drive.google.com/drive/folders/1lBiena62lc3Bb47pauYFTSbWYFz8CrRj
+
   
