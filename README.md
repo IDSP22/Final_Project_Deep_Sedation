@@ -166,8 +166,8 @@ The final report will be delivered to the sponsor of the project and will contai
 * What is the primary patient outcome of interest (deep sedation/ mortality rate)?
   - In the initial interview both participants state that both outcomes: deep sedation and mortality rate are of interest. However, in later meetings the scope of the project was narrowed to exposure to deep sedation. In the words of Professor Armstrong-Hough "this is the clearest outcome we have found".
   
-* Is the main purpuse of this interactive app to sensibilize clinitians on the disparity of deep sedation?
-  - We established this in the initial interview with Professor Mari Armstrong-Hough. They also indicated that they would like to see a section where clinician scientists can play explore patterns in or fit models to patient data. 
+* Is the main purpuse of this interactive app to sensitize clinicians to the racial and ethnic disparities in patients' exposure to deep sedation?
+  - We established this in the initial interview with Professor Mari Armstrong-Hough. They also indicated that they would like to see a section where clinician scientists can explore patterns in, or fit models to, patient data. 
   
 * How do they expect the visualizations will help with the decision making process, if there is any such expectation?
   - They want to sensitize critical care clinicians to the racial and ethnic disparities, that is, create awareness to the problem and its implications. 
