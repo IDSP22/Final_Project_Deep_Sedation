@@ -90,7 +90,7 @@ The goals of this test would be to:
 * Evaluate whether the app clearly and effectively communicates disparities in the administration of PSA in ARDS patients
 * Examine whether the app is easily integrated into the typical workflow of the critical care clinicians and their team 
 *	Assess if the app is helping cultivate clinicians' awareness to the underlying issue 
-* Collect feedback for fine tuning the features of the App prototype. 
+* Collect feedback for fine tuning the features of the app prototype. 
   
 #### Research questions 
 Additionally, this research will try to answer the following questions:  
@@ -113,20 +113,21 @@ There will be two main participants: Professor Mari Armstrong-Hough, and Dr. Tho
 <div style="text-align: right">The test sessions will be held online over zoom. The users will be given access to a link to the app hosted on the shinyios server and then asked to share their screens as they navigate through the app during the testing sessions. These session will be scheduled at a later time.<div/>
 
 #### Pre-test arrangements 
+  
 Obtain consent from the participant:
-* First, ask the participants to share their screens.
-*	Then, ask the participants whether they consent to their screens being recorded during the test session. 
+* First, ask whether the participants consent to sharing their screens.
+*	Then, ask participants whether they consent to their screens being recorded during the test session. 
 
 #### Introduction to the session (5-10 minutes)
-Discuss:
-*	Importance of participant's involvement in the study.
-*	Moderator’s role.
-*	The protocol for the session.
+Carry out the following:
+*	Convey the importance of participant's involvement in the study.
+*	Reiterate moderator's and note-taker's roles.
+*	Review the protocol for the session.
 
 #### Tasks (15-30 min)
 Participants will explore the Deep Sedation app. 
 
-#### Post-test debriefing (10-20 min)
+#### Post-test: debriefing (10-20 min)
 *	Ask questions on how well the App fulfills its goal of sensitizing clinicians.
 *	Ask questions on the design of the app and how it fulfills engagement with data: does it provide ease of navigation; is it clear where all the features are situated in the app and what functions they perform; do the features facilitate intuitive understanding and interpretation of the outputs from various statistical models + visualizations. 
 *	Ask how this app could be improved in terms of dynamicity, presentation of output, color schemes, and organization of the various app sections. 
@@ -136,10 +137,10 @@ Participants will explore the Deep Sedation app.
 1.	Let users interact with the prediction tab. 
 2.	Let users interact with the visualization tab.
 
-#### Test environment, equipment, and logistics 
-Since the test will be carried out online, the equipment used will depend what hardware participants have.
+#### Test: environment, equipment, and logistics 
+Since the test will be carried out online, the equipment used will depend what hardware/machines participants have.
 
-#### Test moderator role
+#### Test: moderator role
 The role of the moderator in this study will be a human factors specialist.
 
 #### Data to be collected and evaluation measures
@@ -159,28 +160,42 @@ The final report will be delivered to the sponsor of the project and will contai
 
 ## Findings/results from interviews 
  
+ 
 ## Initial interview:
   
 * What is the primary patient outcome of interest (deep sedation/ mortality rate)?
-  - In the initial interview both participants relayed that both outcomes, deep sedation and 90-day mortality rate, are of interest.
+  - In the initial interview both participants state that both outcomes: deep sedation and mortality rate are of interest. However, in later meetings the scope of the project was narrowed to exposure to deep sedation. In the words of Professor Armstrong-Hough "this is the clearest outcome we have found".
   
-* Is the main purpose of this interactive app to sensitize clinicians to the racial and ethnic disparities in exposure to deep sedation for ARDS patients?
-  - From the initial interview with Professor Mari Armstrong-Hough, that is our understanding.
+* Is the main purpuse of this interactive app to sensibilize clinitians on the disparity of deep sedation?
+  - We established this in the initial interview with Professor Mari Armstrong-Hough. They also indicated that they would like to see a section where clinician scientists can play explore patterns in or fit models to patient data. 
   
-* How do they expect the visualizations will help the decision making process, if there is any such expectation?
-  - **PENDING**: That is to be fleshed out as the prototype is developed and tested.
+* How do they expect the visualizations will help with the decision making process, if there is any such expectation?
+  - They want to sensitize critical care clinicians to the racial and ethnic disparities, that is, create awareness to the problem and its implications. 
   
-* How do you envision the dynamic visualization?
-  - Mostly we have discussed a dashboard with dynamic regression output tables. 
+* How do you they envision the dynamic visualization?
+  - They envisioned a dashboard with dynamic tables of regression output. 
   
 ## Test interview:
-  **PENDING**
-
-* Do you consider the design appropriate and effective in helping visualize patient health outcomes?
-* Did you find features in the dashboard easy to understand and/or useful?
-* Is the visualization engaging/attention-grabbing, intuitive, and/or fulfilling the purpose of sensitization?  
-* Is the color scheme appropriate: are the colors distracting, distinct or blending into each other, jarring or too gaudy, and/or effective in calling attention to key take points of information?
-* What parts of the app would you modify?
+  
+  We showed our stakeholders the first draft of our idea. Even when we did not had a completed app, they were able to visualize the proposed structure.
+  
+* Do you consider the design appropriate?
+  - They mentioned that they would like to see the visualization with the side by side regression tables and plots.
+  
+* Did you find the dashboard useful?
+  - They found the dashboard would be more useful for the technical scientists. 
+  
+* Is the visualization fullfilling the purpose of sensitizing critical care clinicians?  
+  - They like the idea for an emotional riveting design for the visualization that will sensitize clinicians to the subject of interest.  
+  
+* Are the colors used appropriate?
+  - We were not able to address this question in this first round of interviewing. 
+  
+* What would you modify?
+  - Our original design had two tabs, one for the prediction and one for the visualizations/plots. However, they expressed desire to see a side-by-side tab panel design of the two tabs. Considering the UI real estate and time, we did not implement that modification. 
+  
+  
+  
   
 ## Prototyping round 1
 <div style="text-align: right">So far we are envisioning a dashboard that (1) predicts the odds of exposure to deep sedation, and, (2) a visualization that shows 90-day mortality rate, given patient ethnicity and other characteristics.<div/>
