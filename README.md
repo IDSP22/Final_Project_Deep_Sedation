@@ -1,4 +1,4 @@
-# Final Project: Ethnic Disparities in Patients' Exposure to Deep Sedation
+# Ethnic Disparities in Patients' Exposure to Deep Sedation
 
 ## Overview of the project 
 
