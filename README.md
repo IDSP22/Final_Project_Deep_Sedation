@@ -38,7 +38,7 @@
 
 <br>
 <p align="center">
-<img src="figures/Risker_Ramsay.png" width=80%>
+<img src="figures/Risk_Ramsay.png" width=80%>
 </p>
 
 
