@@ -27,13 +27,20 @@
 
 **Table 1**
 
-![Richmond](Richmond.png)
+<br>
+<p align="center">
+<img src="figures/Richmond.png" width=80%>
+</p>
+
+
 
 **Table 2**
 
-![Risker_Ramsay](Risk_Ramsay.png)
+<br>
+<p align="center">
+<img src="figures/Risker_Ramsay.png" width=80%>
+</p>
 
-<br/>
 
   <div style="text-align: right">In order to assess the disparity in the degree of deep sedation across ethnicities, the research team controlled for “patient characteristics, including age, sex, race/ethnicity, reported tobacco use, comorbidities, body mass index (BMI), SOFA score, receipt of benzodiazepines" [3]. And after obtaining the odds of exposure to deep sedation for each patient ethnicity group, they carried out "bivariate tests of association between patient characteristics and death within 90 days using chi-square tests.” The hypothesis that they were testing was “that Hispanic patients enrolled in the control arm of the ROSE trial spent more time deeply sedated than non-Hispanic patients and that greater exposure to deep sedation was associated with increased 90-day mortality” [3].<div/>
     
