@@ -216,8 +216,7 @@ The final report will be delivered to the sponsor of the project and will contai
    
   <div style="text-align: right">We planned a meeting. However due to personal circumstances on both sides of the team we were not able to carry it out. We have scheduled a meeting for next week to walkthrough the demo and hear feedback for the next iteration of the app.<div/> 
    
-## Second round prototype - Application 
-## Describe the latest version and, if applicable, any feedback you received (you may not get to this stage of feedback on the latest version)
+
 ## Link of Published Application
 https://nsalani22.shinyapps.io/Final_Project_Deep_Sedation/
 ## Potential next steps
